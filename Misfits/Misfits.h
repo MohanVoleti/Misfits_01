@@ -6,7 +6,8 @@
   Version               :   1.0.0
   Compiler              :   Arduino 1.8.14
   Target                :   ESP32
-  Notes                 :   None
+  Notes                 :   None     kkk
+
 *******************************************************************************/
 
 This is about the misfits... And the all the moments
