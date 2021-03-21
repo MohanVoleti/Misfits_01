@@ -7,6 +7,8 @@
   Compiler              :   Arduino 1.8.14
   Target                :   ESP32
   Notes                 :   None
+Aaaaaaaaaaaaaaaaaaaaaaaaa
+
 *******************************************************************************/
 
 This is about the misfits... And the all the moments
@@ -14,8 +16,8 @@ Nithin and anto are going to check the changes.......
 // include library to read and write from flash memory
 #include <EEPROM.h>
 // define the number of bytes you want to access
-#define EEPRO M_SIZE 1
-
+#define EEPRO M_SIZE
+Heyy am nithin 
 struct Button {
   const uint8_t PIN;
   bool pressed;
